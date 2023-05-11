@@ -1,0 +1,14 @@
+.card-detail{
+    width: 450px;
+}
+
+.detail{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.btn{
+    margin-top: 20px;
+    margin-left: 50px;
+}
